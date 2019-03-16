@@ -1,1 +1,3 @@
-'ignore folder/'
+'ignore folder'/
+*.log
+log/
